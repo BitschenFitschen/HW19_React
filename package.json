@@ -1,0 +1,20 @@
+{
+  "name": "reacthw",
+  "version": "1.0.0",
+  "description": "React Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitschenFitschen/HW19_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitschenFitschen/HW19_React/issues"
+  },
+  "homepage": "https://github.com/BitschenFitschen/HW19_React#readme"
+}
